@@ -11,6 +11,9 @@ Modern ve kullanıcı dostu bir Spotify klonu uygulaması. Flutter ile geliştir
 - **State Management**: BLoC pattern ile state yönetimi
 - **Dependency Injection**: GetIt ile bağımlılık yönetimi
 
+  <img width="407" height="825" alt="Ekran görüntüsü 2025-12-01 133648" src="https://github.com/user-attachments/assets/228a1e5f-ee4b-4cde-8327-470af4a80a89" />
+
+
 ## 🚀 Kurulum
 
 ### Gereksinimler
@@ -64,3 +67,4 @@ lib/
 ├── domain/             # Domain katmanı
 └── presentation/       # UI katmanı
 ```
+
